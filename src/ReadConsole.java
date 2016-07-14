@@ -1,5 +1,5 @@
 import java.io.*;
-
+//Sample Code for taking input from user through console
 public class ReadConsole {
 	public static void main(String[] args)throws IOException
 	{
